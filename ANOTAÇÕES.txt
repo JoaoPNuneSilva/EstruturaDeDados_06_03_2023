@@ -1,0 +1,8 @@
+Operadores aritméticos
++ = adição
+- = subtração
+* = multiplicação
+/ = divisão
+% = porcetagem
+
+No Python pode se concatenar unando + e repetir com o sinal *
