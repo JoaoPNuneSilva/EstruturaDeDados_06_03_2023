@@ -29,3 +29,30 @@ print("A potência é ", potencia)
 unir = "João " + "Pedro"
 print (unir)
 cinco_vezes ="O Matheus, pode ser um pouco duro as vezes" * 5
+print (cinco_vezes)
+
+#format
+a = "João Pedro"
+b = 21
+c = " anos"
+texto = "O meu nome é: {nome}"
+exibir = texto.format(nome=a)
+print(exibir)
+
+texto2 = "Tenho {0} {1}"
+exibir2 = texto2.format(b,c)
+print(exibir2)
+
+# nome = input ("Qual o seu nome?")
+# time = input ("Qual é o melhor time?")
+# print(time)
+
+# print (f"O melhor time é: {time}")
+
+#condição
+
+pergunta = input("Qual a sua cidade de nascimento? ")
+if pergunta == "Ivaiporã":
+    print("Você é Ivaiporãense")
+else:
+    print(~"Não pertence a cidade de Ivaiporã")

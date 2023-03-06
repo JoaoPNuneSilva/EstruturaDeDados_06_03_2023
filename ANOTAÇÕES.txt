@@ -6,3 +6,8 @@ Operadores aritméticos
 % = porcetagem
 
 No Python pode se concatenar unando + e repetir com o sinal *
+
+O método format() é utilizado para criar textos que contém campos entre chaves que são substituidas
+
+CONDICIONAIS
+A estrutura de condição if, elif e else no Pyton permite avaliar uma expressão, de acordo com o seu resultado poderá executar uma determinada ação.
