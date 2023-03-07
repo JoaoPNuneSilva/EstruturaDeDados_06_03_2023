@@ -11,3 +11,10 @@ O método format() é utilizado para criar textos que contém campos entre chave
 
 CONDICIONAIS
 A estrutura de condição if, elif e else no Pyton permite avaliar uma expressão, de acordo com o seu resultado poderá executar uma determinada ação.
+
+OPERADOR LÓGICO "E"
+No Pyton o operador lógico "e" é o "and". Lembra da "tabela verdade"? Será verdadeiro quando todas as afirmações forem verdadeiras
+V + V = verdade
+F + V = falso
+V + F = falso
+F + F = verdadeiro
